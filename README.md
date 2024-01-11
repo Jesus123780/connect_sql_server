@@ -1,6 +1,6 @@
-# BAC Project
+# SEL_SERVER
 
-Welcome to the BAC project, an application for card dispatch in the banking sector. This project is designed to streamline the card issuance and management process for banking purposes.
+Welcome to the SEL_SERVER, an application for card dispatch in the banking sector. This project is designed to streamline the card issuance and management process for banking purposes.
 
 ## Dependencies
 * NextJS
